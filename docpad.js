@@ -9,7 +9,7 @@ module.exports = {
       description: "Encontro do grupo Teste de Software-PE",
       date: "27 de maio de 2015",
       venue: "CESAR",
-      address: "Rua Bione, 220 Cais do Apolo – Recife Antigo. Fica na frente da Praça Tiradentes que está em reforma",
+      address: "Rua Bione, 220, Cais do Apolo – Recife Antigo",
       city: "Recife",
       state: "PE"
     },
@@ -26,7 +26,7 @@ module.exports = {
     hangout:{
       hangoutSet: false,
       link:"https://plus.google.com/u/2/events/cdn2unjap1440853obc0pgsc750",
-      hangoutNotSetMessage: "link para hangout em breve."
+      //hangoutNotSetMessage: "link para hangout em breve."
     },
 
     site: {
@@ -135,8 +135,8 @@ module.exports = {
       },*/
       {
         name: "Qualiti",
-        logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
-        url: "http://www.qualiti.com.br/"
+        logo:"themes/yellow-swan/img/LOGO_CESAR.jpg",
+        url: "http://www.cesar.org.br/site/"
       }
     ],
 
