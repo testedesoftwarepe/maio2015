@@ -9,7 +9,7 @@ module.exports = {
       description: "Encontro do grupo Teste de Software-PE",
       date: "27 de maio de 2015",
       venue: "CESAR",
-      address: "Rua Bione, 220, Cais do Apolo – Recife Antigo",
+      address: "Rua Bione, 220, Cais do Apolo",
       city: "Recife",
       state: "PE"
     },
@@ -73,7 +73,7 @@ module.exports = {
         },
         presentation: {
           title: "Uma reflexão sobre o básico de Testes",
-          description: "Nesta palestra, será mostrado os benefícios de fazer a automação dos testes usando o padrão Page Object",
+          description: "Estamos pensando em tester 2.0, automação de testes, teste de performance, segurança de aplicações, etc. Entretanto, essa conversa tem como objetivo dar um passo atrás. E levar à reflexão sobre o que seria o básico para um testador.",
           time: "19h15"
         }
         /*
@@ -87,7 +87,7 @@ module.exports = {
      },
 
      {
-        name: "Testers e a zona de conforto",
+        name: "José Carréra",
         photo: "themes/yellow-swan/img/JoseCarrera.JPG",
         bio: "José Carréra possui 9 anos de experiência em testes, trabalhando prioritariamente em projetos Mobile e Web. É graduado em Ciência da Computação pela UNICAP e com mestrado profissional em engenharia de software pelo CESAR.EDU. Carréra já liderou equipes de teste, trabalhando desde o planejamento, a execução e reportagem das atividades de teste. Ele também já atuou com testes de performance e com automação de testes para Web com Selenium. Em 2014, fez parte do time CESAR Brazil, vencedor da Copa do Mundo de Testes de Software 2014 (STWC). É co-fundador da QALab Teste de Software.",
         company: "CESAR",
@@ -96,7 +96,7 @@ module.exports = {
           text: "Linkedin"
         },
         presentation: {
-          title: "Uma reflexão sobre o básico de Testes",
+          title: "Testers e a zona de conforto",
           description: "Na ZONA DE CONFORTO não há medo, ansiedade ou risco, são pensamentos ou comportamentos aos quais uma pessoa se habitua com uma sensação de segurança. O objetivo dessa conversa é discutir e trabalhar em cima da zona de conforto dos testadores.",
           time: "20:15"
         }
