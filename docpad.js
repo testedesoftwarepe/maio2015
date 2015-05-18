@@ -98,7 +98,7 @@ module.exports = {
         presentation: {
           title: "Uma reflexão sobre o básico de Testes",
           description: "Na ZONA DE CONFORTO não há medo, ansiedade ou risco, são pensamentos ou comportamentos aos quais uma pessoa se habitua com uma sensação de segurança. O objetivo dessa conversa é discutir e trabalhar em cima da zona de conforto dos testadores.",
-          time: "19h15"
+          time: "20:15"
         }
         /*
         Activity é alguma dinâmica extra que poderá ocorrer. Como é uma atividade em grupo, não será mostrada nenhuma imagem. Caso queira remover, basta comentar a activity toda.
