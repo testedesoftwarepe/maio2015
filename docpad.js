@@ -9,7 +9,7 @@ module.exports = {
       description: "Encontro do grupo Teste de Software-PE",
       date: "27 de maio de 2015",
       venue: "CESAR",
-      address: "Rua Bione, 220, Cais do Apolo",
+      address: "Rua Bione, 220 – Recife Antigo",
       city: "Recife",
       state: "PE"
     },
