@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *[Leia a documentação em Português](https://github.com/braziljs/conf-boilerplate/blob/master/README-pt.md)*
 
 ---
@@ -307,3 +308,7 @@ Special thanks to all community members for feedbacks and contributions.
 ## License
 
 [MIT License](http://braziljs.mit-license.org/) © BrazilJS Foundation
+=======
+# maio2015
+QA Night em Maio 2015
+>>>>>>> 3c3bbc4809f528adeba1aeccf2ef85cbf2352251
