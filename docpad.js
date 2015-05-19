@@ -23,6 +23,7 @@ module.exports = {
       "Acesse o hangout por esse <link>"
       Se o hangoutSet for false, será usada a mensagem do hangoutNotSetMessage    
     */
+
     hangout:{
       hangoutSet: false,
       link:"https://plus.google.com/u/2/events/cdn2unjap1440853obc0pgsc750",
@@ -98,7 +99,7 @@ module.exports = {
         presentation: {
           title: "Testers e a zona de conforto",
           description: "Na ZONA DE CONFORTO não há medo, ansiedade ou risco, são pensamentos ou comportamentos aos quais uma pessoa se habitua com uma sensação de segurança. O objetivo dessa conversa é discutir e trabalhar em cima da zona de conforto dos testadores.",
-          time: "20:15"
+          time: "20h15"
         }
         /*
         Activity é alguma dinâmica extra que poderá ocorrer. Como é uma atividade em grupo, não será mostrada nenhuma imagem. Caso queira remover, basta comentar a activity toda.
@@ -134,7 +135,7 @@ module.exports = {
         url: "http://www.mauriciodenassau.edu.br/"
       },*/
       {
-        name: "Qualiti",
+        name: "CESAR",
         logo:"themes/yellow-swan/img/LOGO_CESAR.jpg",
         url: "http://www.cesar.org.br/site/"
       }
