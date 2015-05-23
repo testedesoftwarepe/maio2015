@@ -90,8 +90,8 @@ module.exports = {
      {
         name: "José Carréra",
         photo: "themes/yellow-swan/img/JoseCarrera.JPG",
-        bio: "José Carréra possui 9 anos de experiência em testes, trabalhando prioritariamente em projetos Mobile e Web. É graduado em Ciência da Computação pela UNICAP e com mestrado profissional em engenharia de software pelo CESAR.EDU. Carréra já liderou equipes de teste, trabalhando desde o planejamento, a execução e reportagem das atividades de teste. Ele também já atuou com testes de performance e com automação de testes para Web com Selenium. Em 2014, fez parte do time CESAR Brazil, vencedor da Copa do Mundo de Testes de Software 2014 (STWC). É co-fundador da QALab Teste de Software.",
-        company: "CESAR",
+        bio: "José Carréra possui 9 anos de experiência em testes, trabalhando prioritariamente em projetos Mobile e Web. É graduado em Ciência da Computação pela UNICAP e com mestrado profissional em engenharia de software pelo CESAR.EDU. Carréra já liderou equipes de teste, trabalhando desde o planejamento, a execução e reportagem das atividades de teste. Ele também já atuou com testes de performance e com automação de testes para Web com Selenium. Em 2014, fez parte do time CESAR Brazil, vencedor da Copa do Mundo de Testes de Software 2014 (STWC).",
+        company: "",
         link: {
           href: "https://www.linkedin.com/in/josecarrera",
           text: "Linkedin"
